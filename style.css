@@ -11,7 +11,13 @@ body {
   position: relative;
   animation: .8s beat infinite;
 }
-    
+.dileka{
+  z-index: 999;
+  position: relative;
+  padding-left: 25px;
+  top: 25px;
+  color: white;
+}
 .heart {
   position: relative;
   background-color: red;
